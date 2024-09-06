@@ -10,7 +10,9 @@
 1. Method
 ![architecture](https://github.com/user-attachments/assets/b165b1a3-c963-4882-b549-153015de45f5)
 2. output
+
 ![output](https://github.com/user-attachments/assets/950b7733-783e-4357-b742-bf079509c603)
+
 3. 참고
 Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton.
  "Imagenet classification with deep convolutional neural networks."
